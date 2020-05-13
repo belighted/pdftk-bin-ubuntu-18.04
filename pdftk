@@ -1,0 +1,2 @@
+#!/bin/sh 
+java -jar /home/runner/dokeos/pdftk-bin-ubuntu-18.04/pdftk.jar "$*"
